@@ -55,6 +55,8 @@ This snippet creates a compact, reusable table for Sitefinity content blocks. It
 
 ## CSS
 
+> **Note:** The CSS variables below are documentation placeholders. Before using this in production, replace them with the correct variables from your Sitefinity theme or design system. For example, `--sf-table-text-color` should be mapped to the approved text color variable used by your site.
+
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400;600;700&display=swap");
 
