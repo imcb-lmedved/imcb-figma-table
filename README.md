@@ -165,12 +165,3 @@ If Sofia Sans is already loaded globally on the site, remove this line to avoid 
 ```
 
 Keep the `.sf-content-table` wrapper around the table so the styles stay scoped and do not affect other tables on the page.
-
-## Suggested GitHub File Structure
-
-```text
-sitefinity-responsive-table/
-├── README.md
-├── example.html
-└── sitefinity-responsive-table.css
-```
